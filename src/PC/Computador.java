@@ -28,19 +28,16 @@ public class Computador {
             if (hardwaresBasicos[i] != null) {
 
                 System.out.println("Nome: " + hardwaresBasicos[i].getNome());
-
                 System.out.println("Capacidade " + hardwaresBasicos[i].getCapacidade());
             }
         }
 
         System.out.println("Sistema Operacional: " + sistemaOperacional.getNome());
-
         System.out.println("Tipo: " + sistemaOperacional.getTipo());
 
         if (memoriaUSB != null) {
 
             System.out.println("Memória USB: " + memoriaUSB.getNome());
-
             System.out.println("Capacidade: " + memoriaUSB.getCapacidade());
         }
 

@@ -13,9 +13,7 @@ public class Promocoes {
         HardwareBasico[] hardwares = new HardwareBasico[3];
 
         hardwares[0] = new HardwareBasico("Pentium Core i5", 2200);
-
         hardwares[1] = new HardwareBasico("Memória RAM", 8);
-
         hardwares[2] = new HardwareBasico("HD", 500);
 
         SistemaOperacional sistema = new SistemaOperacional("macOS Sequoia", 64);
