@@ -1,6 +1,6 @@
 # PCMania
 
-Projeto desenvolvido para a disciplina C06 - Programação Orientada a Objetos.
+Projeto de C06 - Programação Orientada a Objetos.
 
 ## Informações minhas:
 
